@@ -1,5 +1,9 @@
 /*
- upload this code to Arduino UNO for external circuit in maze. this will send BNC signals out of A0 when the beam is broken
+ Arudino UNO external circuit in maze
+ Last updated 8/25/25
+ Emmie Hou
+
+ This will send BNC signals out of A0 when the beam is broken
 */
 #define LEDPIN 13
  // Pin 13: Arduino has an LED connected on pin 13
