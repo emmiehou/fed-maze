@@ -1,3 +1,4 @@
+/* use this for maze days. dispenses 1 pellet on BNC signal*/
 /*
   Basic Pellet Dispenser
   FED3 will dispense a pellet when it detects a HIGH pulse on the BNC port.  It will not dispense another until that pellet is removed.  Timestamps of pellet removal are logged.
